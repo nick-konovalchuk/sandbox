@@ -1,2 +1,2 @@
-from sandbox import models
-from sandbox import trainer
+from . import models
+from . import trainer
